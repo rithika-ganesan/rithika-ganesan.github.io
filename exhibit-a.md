@@ -1,0 +1,9 @@
+- August 2020 | Accretion Disks and TDEs
+- September 2020 | The Face of the Cosmos
+- October 2020 | Biological Bases for Mental Illnesses
+- January 2021 | Climate Change in 2021
+- March 2021 | Women in Science, Women and Science
+- April 2021 | Planned Obscolescence and its Effects on the Environment
+- May 2021 | More Space Sounds Detected by Voyager 1
+- June 2021 | Retroactive Name Change Policies in Scientific Journals
+- September 2021 | The Sixth Assessment Report on Climate Change
