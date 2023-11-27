@@ -17,13 +17,14 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
-  - {file: "README.md"}
+#  - {file: "README.md"}
   - {file: "about.md"}
   - {file: "projects.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:rithikag02@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/rithika-ganesan/"}
+  - {title: Twitter, icon: twitter, url: "x.com/astrorithika"}
  # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
