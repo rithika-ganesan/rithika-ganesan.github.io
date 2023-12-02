@@ -4,6 +4,4 @@ permalink: "/projects/"
 layout: page
 ---
 
-## Astrophysics
-
-## Particle Physics
+In the works!
