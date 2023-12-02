@@ -8,4 +8,4 @@ Hi! My name is Rithika. I'm a final-year undergraduate at the Indian Institute o
 
 I'm a member of the particle group in the School of Physics, and I'm currently working towards my Master's thesis. 
 
-I can be found on [Twitter](x.com/astrorithika), [GitHub](github.com/rithika-ganesan), and in the corner of PSB3103B. 
+I can be found on [Twitter](https://www.x.com/astrorithika), [GitHub](https://www.github.com/rithika-ganesan), and in the corner of PSB3103B. 
